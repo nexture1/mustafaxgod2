@@ -19,8 +19,8 @@ client.on("ready", () => {
  
 });
 
-const idclient = "459017979103936523" // CLIENT MUST PUT
-const name = "Builderman"
+const idclient = "568041576127922223" // CLIENT MUST PUT
+const name = "Mustafaxgod"
 
 
 
